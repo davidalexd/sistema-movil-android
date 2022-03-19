@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoComputo</string>
+    <string name="title_activity_menu">TodoComputo</string>
+    <string name="tab_text_1">Computadoras</string>
+    <string name="tab_text_2">Impresoras</string>
+    <string name="tab_text_3">Teclados</string>
+
+</resources>

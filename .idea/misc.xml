@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/drawable/borderadius.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_acceso.xml" value="0.25" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_frame_layout.xml" value="0.5" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_insertar_productos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_main_computadoras.xml" value="0.33" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_main_impresoras.xml" value="0.25" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_main_teclado.xml" value="0.2453125" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_panel_principal.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/fragment_computadoras.xml" value="0.25" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/fragment_impresoras.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/fragment_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/DavidXeonE52690/AndroidStudioProjects/Proyectocls01/app/src/main/res/layout/fragment_teclados.xml" value="0.327445652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
